@@ -1,0 +1,12 @@
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.AssemblyReference.cache
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.MainForm.resources
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe.config
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\bin\Debug\NotepadApp.pdb
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.exe
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.pdb
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Functionality.FormFind.resources
+C:\Users\ezadi\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Functionality.FormAbout.resources
